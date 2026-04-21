@@ -1,0 +1,10 @@
+git init
+git config user.email "diarcilaju@uss.edu.pe"
+git config user.name "diarcilaju"
+git remote add origin https://github.com/diarcilaju/uss-pdsa-2026.git
+git add -A
+git commit -m "Subida incial"
+git push origin master
+
+--
+git pull origin master
